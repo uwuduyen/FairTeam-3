@@ -1,2 +1,0 @@
--- FairTeam PostgreSQL schema is initialized automatically by server.js.
--- This file is kept as a reference for the repository.
